@@ -19,6 +19,16 @@ Our bootcamp offers a welcoming and useful environment for learning many necessa
 - You should be prepared to install software on your own laptop and bring it to the bootcamp
 - Some previous experience with programming is advantageous but not mandatory - the first day is devoted to introductory topics 
 
+## Before the bootcamp
+
+Before attending the bootcamp, please follow carefully the installation instructions below (click the arrow) to make sure that all tools and packages that will be needed during the bootcamp are installed correctly on your computer.
+
+<details>
+  <summary>Installation instructions</summary>
+ 
+WRITEME
+</details>
+
 ## Learning objectives
 
 By attending this bootcamp, you will:
