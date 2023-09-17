@@ -70,11 +70,16 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 
 **Day 2 - Python intermediate**
 
-- 1h basics
-    - variables, functions, loops
-- 2h intermediate
-    - jupyter (parts of the CR lesson)
+- 10:00-10:10 Recap of what we learned yesterday
+- 10:10-12:00 Python intermediate
+    - 10:10-11:00 [Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy/)
+    - 11:00-12:00 [Pandas](https://aaltoscicomp.github.io/python-for-scicomp/pandas/)
+- 13:00-14:00 Python intermediate
+    - 13:00-14:00 [Visualisation with Matplotlib](https://aaltoscicomp.github.io/python-for-scicomp/data-visualization/)
+    - 14:00-14:50 [Data formats with Numpy and Pandas](https://aaltoscicomp.github.io/python-for-scicomp/data-formats/)
+    - 14:50-15:00 Where to go from here: advanced Numpy
 
+    
 **Day 3 - Python intermediate**
 
 - 2h Numpy and Pandas
