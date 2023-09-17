@@ -78,7 +78,7 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
     - 13:00-13:50 [Visualisation with Matplotlib](https://aaltoscicomp.github.io/python-for-scicomp/data-visualization/)
     - 13:50-14:20 [Data formats with Numpy and Pandas](https://aaltoscicomp.github.io/python-for-scicomp/data-formats/)
     - 14:20-14:50 [Web APIs with Python](https://aaltoscicomp.github.io/python-for-scicomp/web-apis/)
-    - 14:50-15:00 Where to go from here: advanced Numpy
+    - 14:50-15:00 Where to go from here: [advanced Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy-advanced/)
 
     
 **Day 3 - Python intermediate**
@@ -91,7 +91,7 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
     - 13:00-13:30 [Parallel programming](https://aaltoscicomp.github.io/python-for-scicomp/parallel/)
     - 13:30-14:00 [Dependency management](https://aaltoscicomp.github.io/python-for-scicomp/dependencies/)
     - 14:00-14:50 [Packaging](https://aaltoscicomp.github.io/python-for-scicomp/packaging/)
-    - 14:50-15:00 Where to go from here: Accelerating Python code, porting to GPUs.
+    - 14:50-15:00 Where to go from here: [Accelerating Python code, porting to GPUs](https://enccs.github.io/hpda-python/).
 
 **Day 4 - Python intermediate, more Unix, and HPC**
 
@@ -103,13 +103,22 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
     - 13:00-13:25 [Loops contd.](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html)
     - 13:25-14:10 [Shell scripts](https://swcarpentry.github.io/shell-novice/instructor/06-script.html)
     - 14:10-14:50 [Finding things](https://swcarpentry.github.io/shell-novice/instructor/07-find.html)
-    - 14:50-15:00 Where to go from here
+    - 14:50-15:00 Where to go from here: [awk](https://pmitev.github.io/to-awk-or-not/) etc.
 
 
-Day 5 - Unix intermediate
+Day 5 - HPC and Cloud
 
-- 2h intermediate (scripting)
-- 2h HPC intro
+- 10:00-12:00 High performance computing
+   - 10:00-10:20 [Why use a cluster?](https://carpentries-incubator.github.io/hpc-intro/10-hpc-intro/index.html)
+   - 10:20-10:55 [Connecting to a remote HPC system](https://carpentries-incubator.github.io/hpc-intro/11-connecting/index.html)
+   - 10:55-11:20 [Exploring Remote Resources](https://carpentries-incubator.github.io/hpc-intro/12-cluster/index.html)
+   - 11:20-12:00 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/)
+- 13:00-15:00 HPC and Cloud
+   - 13:00-13:20 [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html)
+   - 13:20-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html)
+   - 13:50-14:50 ICE data center
+   - 14:50-15:00 Where to go from here: [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
+
 
 Day 6 - Introduction to Git 
 
