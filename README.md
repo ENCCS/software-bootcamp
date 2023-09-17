@@ -45,8 +45,17 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 
 **Day 1 - Unix and Python introduction**
 
-- 10:00-12:00 Unix basics 
+- 10:00-10:30 Welcome and general introduction
+- 10:30-12:00 Unix basics
+  - 10:30-10:35 [Introducing the Shell](https://swcarpentry.github.io/shell-novice/instructor/01-intro.html)
+  - 10:35-11:10 [Navigating Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/02-filedir.html)
+  - 11:10-11:40 [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/03-create.html)
+  - 11:40-12:00 Where to go from here: pipes, filters, loops, shell scripts, finding things.
 - 13:00-15:00 Python intro
+  - 13:00-13:30 [Writing Python in Jupyter](https://aaltoscicomp.github.io/python-for-scicomp/jupyter/)
+  - 13:30-14:00 [Writing Python in VSCode](https://code.visualstudio.com/docs/introvideos/basics)
+  - 14:00-14:30 [Basic introduction to Python](https://aaltoscicomp.github.io/python-for-scicomp/python/)
+  - 14:30-15:00 [Python scripts](https://aaltoscicomp.github.io/python-for-scicomp/scripts/)
 
 
 **Day 2 - Python intermediate**
