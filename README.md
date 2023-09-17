@@ -74,7 +74,7 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 - 10:10-12:00 Python intermediate
     - 10:10-11:00 [Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy/)
     - 11:00-12:00 [Pandas](https://aaltoscicomp.github.io/python-for-scicomp/pandas/)
-- 13:00-14:00 Python intermediate
+- 13:00-15:00 Python intermediate
     - 13:00-13:50 [Visualisation with Matplotlib](https://aaltoscicomp.github.io/python-for-scicomp/data-visualization/)
     - 13:50-14:20 [Data formats with Numpy and Pandas](https://aaltoscicomp.github.io/python-for-scicomp/data-formats/)
     - 14:20-14:50 [Web APIs with Python](https://aaltoscicomp.github.io/python-for-scicomp/web-apis/)
@@ -83,12 +83,27 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
     
 **Day 3 - Python intermediate**
 
-- 2h Numpy and Pandas
-- 2h
+- 10:00-10:15 Recap of what we learned yesterday
+- 10:15-12:00 Python intermediate
+    - 10:15-10:30 [Scipy](https://aaltoscicomp.github.io/python-for-scicomp/scipy/)
+    - 10:30-11:00 [Library ecosystem](https://aaltoscicomp.github.io/python-for-scicomp/libraries/)
+- 13:00-15:00 Python intermediate
+    - 13:00-13:30 [Parallel programming](https://aaltoscicomp.github.io/python-for-scicomp/parallel/)
+    - 13:30-14:00 [Dependency management](https://aaltoscicomp.github.io/python-for-scicomp/dependencies/)
+    - 14:00-14:50 [Packaging](https://aaltoscicomp.github.io/python-for-scicomp/packaging/)
+    - 14:50-15:00 Where to go from here: Accelerating Python code, porting to GPUs.
 
+**Day 4 - Python intermediate, more Unix, and HPC**
 
-Day 4 - Python intermediate
-
+- 10:00-11:00 Buffer time, Q&A session and discussions.
+- 11:00-12:00 Unix intermediate:
+   - 11:00-11:35 [Pipes and filters](https://swcarpentry.github.io/shell-novice/instructor/04-pipefilter.html)
+   - 11:35-12:00 [Loops](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html)
+- 13:00-15:00 Intermediate Unix
+    - 13:00-13:25 [Loops contd.](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html)
+    - 13:25-14:10 [Shell scripts](https://swcarpentry.github.io/shell-novice/instructor/06-script.html)
+    - 14:10-14:50 [Finding things](https://swcarpentry.github.io/shell-novice/instructor/07-find.html)
+    - 14:50-15:00 Where to go from here
 
 
 Day 5 - Unix intermediate
