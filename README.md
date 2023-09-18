@@ -149,45 +149,43 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 - 10:00-12:00 Git intermediate
    - 10:00-10:30 [Distributed version control and forking workflow II](https://coderefinery.github.io/git-collaborative/distributed/) (TW and YW)
    - 10:30-11:00 [How to contribute changes to somebody else’s project](https://coderefinery.github.io/git-collaborative/contributing/) (TW and YW)
-   - 11:00-12:00 
+   - 11:00-12:00 Buffer time, Q&A session and discussions.
 - 13:00-15:00 Jupyter and Reproducibility
     - 13:00-13:20 [Notebooks and version control](https://coderefinery.github.io/jupyter/version-control/) (AA and TW)
     - 13:20-13:50 [Sharing notebooks](https://coderefinery.github.io/jupyter/sharing/) (AA and TW)
     - 13:50-14:00 [Reproducible research - Motivation](https://coderefinery.github.io/reproducible-research/motivation/) (TW)
-    - 14:00-14:10 [Organising your projects](https://coderefinery.github.io/reproducible-research/organizing-projects/) (TW and AA)
-    - 14:10-14:40 [Recording computational steps](https://coderefinery.github.io/reproducible-research/workflow-management/) (TW and AA)
+    - 14:00-14:10 [Organising your projects](https://coderefinery.github.io/reproducible-research/organizing-projects/) (AA and TW)
+    - 14:10-14:40 [Recording computational steps](https://coderefinery.github.io/reproducible-research/workflow-management/) (AA and TW)
     - 14:40-15:00 Buffer time, Q&A session and discussions.
 
 
-Day 9 - Reproducibility and documentation
+Day 9 - Reproducibility and Documentation
 
-- 2h Reproducible research (AA and TW)
-- 2h Documentation (TW and AA)
+- 10:00-12:00 Reproducibility
+   - 10:00-10:30 [Recording dependencies](https://coderefinery.github.io/reproducible-research/dependencies/) (TW and AA)
+   - 10:30-11:00 [Recording environments - containers](https://coderefinery.github.io/reproducible-research/environments/) (TW and AA)
+   - 11:00-11:30 Q&A, where to go from here: [More on containers](https://enccs.github.io/containers/).
+   - 11:30-11:45 [Documentation - motivation and wish list](https://coderefinery.github.io/documentation/wishlist/) (TW and AA)
+   - 11:45-12:00 [Documentation - Popular tools and solutions](https://coderefinery.github.io/documentation/tools/) (TW and AA)
+- 13:00-15:00 Documentation
+    - 13:00-13:20 [In-code documentation](https://coderefinery.github.io/documentation/in-code-documentation/) (TW and AA)
+    - 13:20-13:50 [Writing good README files](https://coderefinery.github.io/documentation/writing-readme-files/) (TW and AA)
+    - 13:50-14:20 [Sphinx and Markdown](https://coderefinery.github.io/documentation/sphinx/) (TW and AA)
+    - 14:20-14:50 [Deploying Sphinx documentation to GitHub Pages](https://coderefinery.github.io/documentation/gh_workflow/) (TW and AA)
+    - 14:50-15:00 Where to go from here: [Hosting websites/homepages on GitHub Pages](https://coderefinery.github.io/documentation/gh-pages/)
 
-- 10:00-12:00 
-   - 11:00-11:35 
-   - 11:35-12:00 
-- 13:00-15:00 
-    - 13:00-13:25 
-    - 13:25-14:10 
-    - 14:10-14:50 
-    - 14:50-15:00 Where to go from here: 
+**Day 10 - Testing and Modular code development**
 
-
-Day 10 - Testing and modularity
-
-- 2h Testing (TW and MS)
-- 1h Modular code development (TW and MS)
-- 1h Where to go from here: AI training material, ENCCS lessons, etc.
-
-- 10:00-12:00 
-   - 11:00-11:35 
-   - 11:35-12:00 
-- 13:00-15:00 
-    - 13:00-13:25 
-    - 13:25-14:10 
-    - 14:10-14:50 
-    - 14:50-15:00 Where to go from here: 
+- 10:00-12:00 Software testing
+   - 10:00-10:15 [Motivation](https://coderefinery.github.io/testing/motivation/)  (TW and MS)
+   - 10:15-10:40 [Testing locally](https://coderefinery.github.io/testing/pytest/) (TW and MS)
+   - 10:40-11:10 [Automated testing](https://coderefinery.github.io/testing/continuous-integration/) (TW and MS)
+   - 11:10-11:40 [Test design](https://coderefinery.github.io/testing/test-design/) (TW and MS)
+   - 11:40-11:50 [Conclusions and recommendations](https://coderefinery.github.io/testing/conclusions/) (TW and MS)
+   - 11:50-12:00 Where to go from here: [full-cycle collaborative workflow](https://coderefinery.github.io/testing/full-cycle-ci/)
+- 13:00-15:00 Modular code development and wrap-up
+    - 13:00-14:00 [Slides](http://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md/#1) or [Type-along](https://coderefinery.github.io/modular-type-along/) (TW and MS)
+    - 14:00-15:00 Q&A, discussion, final words.
 
 
 
