@@ -109,14 +109,14 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 **Day 5 - HPC and Cloud**
 
 - 10:00-12:00 High performance computing
-   - 10:00-10:20 [Why use a cluster?](https://carpentries-incubator.github.io/hpc-intro/10-hpc-intro/index.html) ()
-   - 10:20-10:55 [Connecting to a remote HPC system](https://carpentries-incubator.github.io/hpc-intro/11-connecting/index.html)
-   - 10:55-11:20 [Exploring Remote Resources](https://carpentries-incubator.github.io/hpc-intro/12-cluster/index.html)
-   - 11:20-11:50 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/)
-   - 11:50-12:00 LUMI demo
+   - 10:00-10:20 [Why use a cluster?](https://carpentries-incubator.github.io/hpc-intro/10-hpc-intro/index.html) (YW and TW)
+   - 10:20-10:55 [Connecting to a remote HPC system - using LUMI](https://carpentries-incubator.github.io/hpc-intro/11-connecting/index.html) (YW and TW)
+   - 10:55-11:20 [Exploring Remote Resources](https://carpentries-incubator.github.io/hpc-intro/12-cluster/index.html) (YW and AA)
+   - 11:20-11:50 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/) (TW and AA)
+   - 11:50-12:00 Getting HPC access via ENCCS (TW)
 - 13:00-15:00 HPC and Cloud
-   - 13:00-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html)
-   - 13:50-14:50 ICE data center
+   - 13:00-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html) (YW and TW)
+   - 13:50-14:50 ICE data center (Isabelle?)
    - 14:50-15:00 Where to go from here: [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html), [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
 
 
@@ -144,7 +144,8 @@ Day 9 - Reproducibility and documentation
 Day 10 - Testing and modularity
 
 - 2h Testing (TW and MS)
-- 2h Modular code development (TW and MS)
+- 1h Modular code development (TW and MS)
+- 1h Where to go from here: AI training material, ENCCS lessons, etc.
 
 
 
