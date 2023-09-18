@@ -120,19 +120,43 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
    - 14:50-15:00 Where to go from here: [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html), [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
 
 
-Day 6 - Introduction to Git 
+**Day 6 - Introduction to Git**
 
-- 4h git-intro (AA and TW and MS) (TW unavailable before noon)
+- 10:00-12:00 Git introduction
+   - 10:00-10:15 [Motivation](https://coderefinery.github.io/git-intro/motivation/) (AA and MS)
+   - 10:15-11:10 [Basics](https://coderefinery.github.io/git-intro/basics/) (AA and MS)
+   - 11:10-12:00 [Branching and merging](https://coderefinery.github.io/git-intro/branches/) (MS and AA)
+- 13:00-15:00 
+    - 13:00-13:30 [Conflict resolution](https://coderefinery.github.io/git-intro/conflicts/) (MS and TW)
+    - 13:30-14:00 [Sharing repositories online](https://coderefinery.github.io/git-intro/remotes/) (TW and MS)
+    - 14:00-14:45 [Inspecting history](https://coderefinery.github.io/git-intro/archaeology/) (TW and AA)
+    - 14:45-15:00 [How much Git is necessary?](https://coderefinery.github.io/git-intro/level/) (TW and AA)
 
+**Day 7 - Introductory and intermediate Git**
 
-Day 7 - Introductory and intermediate Git 
+- 10:00-12:00 Git introduction
+   - 10:00-10:10 [What to avoid](https://coderefinery.github.io/git-intro/what-to-avoid/) (YW and AA)
+   - 10:10-10:30 [Using the Git staging area](https://coderefinery.github.io/git-intro/staging-area/) (YW and AA)
+   - 10:30-11:00 Where to go from here: [Undoing and recovering](https://coderefinery.github.io/git-intro/recovering/), [Interupted work](https://coderefinery.github.io/git-intro/interrupted/), [Aliases and configuration](https://coderefinery.github.io/git-intro/aliases/), [Git under the hood](https://coderefinery.github.io/git-intro/under-the-hood/) (AA and YW)
+   - 11:00-12:00 [Social coding and open software](https://coderefinery.github.io/social-coding/) (MS and YW)
+- 13:00-15:00 Git intermediate
+    - 13:00-13:15 [Concepts around collaboration](https://coderefinery.github.io/git-collaborative/remotes/) (TW and MS)
+    - 13:15-14:15 [Centralised workflow](https://coderefinery.github.io/git-collaborative/centralized/) (TW and MS)
+    - 14:10-15:00 [Distributed version control and forking workflow I](https://coderefinery.github.io/git-collaborative/distributed/) (TW and MS)
 
-- 2h git-intro (YW and ) (TW unavailable before noon)
-- 2h social coding (MS and YW)
+**Day 8 - Intermediate Git, Jupyter, Reproducibility**
 
-Day 8 - Intermediate Git 
-
-- 4h git-intermediate (TW and )
+- 10:00-12:00 Git intermediate
+   - 10:00-10:30 [Distributed version control and forking workflow II](https://coderefinery.github.io/git-collaborative/distributed/) (TW and YW)
+   - 10:30-11:00 [How to contribute changes to somebody else’s project](https://coderefinery.github.io/git-collaborative/contributing/) (TW and YW)
+   - 11:00-12:00 
+- 13:00-15:00 Jupyter and Reproducibility
+    - 13:00-13:20 [Notebooks and version control](https://coderefinery.github.io/jupyter/version-control/) (AA and TW)
+    - 13:20-13:50 [Sharing notebooks](https://coderefinery.github.io/jupyter/sharing/) (AA and TW)
+    - 13:50-14:00 [Reproducible research - Motivation](https://coderefinery.github.io/reproducible-research/motivation/) (TW)
+    - 14:00-14:10 [Organising your projects](https://coderefinery.github.io/reproducible-research/organizing-projects/) (TW and AA)
+    - 14:10-14:40 [Recording computational steps](https://coderefinery.github.io/reproducible-research/workflow-management/) (TW and AA)
+    - 14:40-15:00 Buffer time, Q&A session and discussions.
 
 
 Day 9 - Reproducibility and documentation
@@ -140,12 +164,30 @@ Day 9 - Reproducibility and documentation
 - 2h Reproducible research (AA and TW)
 - 2h Documentation (TW and AA)
 
+- 10:00-12:00 
+   - 11:00-11:35 
+   - 11:35-12:00 
+- 13:00-15:00 
+    - 13:00-13:25 
+    - 13:25-14:10 
+    - 14:10-14:50 
+    - 14:50-15:00 Where to go from here: 
+
 
 Day 10 - Testing and modularity
 
 - 2h Testing (TW and MS)
 - 1h Modular code development (TW and MS)
 - 1h Where to go from here: AI training material, ENCCS lessons, etc.
+
+- 10:00-12:00 
+   - 11:00-11:35 
+   - 11:35-12:00 
+- 13:00-15:00 
+    - 13:00-13:25 
+    - 13:25-14:10 
+    - 14:10-14:50 
+    - 14:50-15:00 Where to go from here: 
 
 
 
