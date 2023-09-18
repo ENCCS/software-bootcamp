@@ -55,29 +55,29 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 
 **Day 1 - Unix and Python introduction**
 
-- 10:00-10:30 Welcome and general introduction
+- 10:00-10:30 Welcome and general introduction (Everyone)
 - 10:30-12:00 Unix basics
-  - 10:30-10:35 [Introducing the Shell](https://swcarpentry.github.io/shell-novice/instructor/01-intro.html)
-  - 10:35-11:10 [Navigating Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/02-filedir.html)
-  - 11:10-11:40 [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/03-create.html)
+  - 10:30-10:35 [Introducing the Shell](https://swcarpentry.github.io/shell-novice/instructor/01-intro.html) (AA and TW)
+  - 10:35-11:10 [Navigating Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/02-filedir.html) (AA and TW)
+  - 11:10-11:40 [Working With Files and Directories](https://swcarpentry.github.io/shell-novice/instructor/03-create.html) (AA and TW)
   - 11:40-12:00 Where to go from here: pipes, filters, loops, shell scripts, finding things.
 - 13:00-15:00 Python intro
-  - 13:00-13:30 [Writing Python in Jupyter](https://aaltoscicomp.github.io/python-for-scicomp/jupyter/)
-  - 13:30-14:00 [Writing Python in VSCode](https://code.visualstudio.com/docs/introvideos/basics)
-  - 14:00-14:30 [Basic introduction to Python](https://aaltoscicomp.github.io/python-for-scicomp/python/)
-  - 14:30-15:00 [Python scripts](https://aaltoscicomp.github.io/python-for-scicomp/scripts/)
+  - 13:00-13:30 [Writing Python in Jupyter](https://aaltoscicomp.github.io/python-for-scicomp/jupyter/) (AA and YW)
+  - 13:30-14:00 [Writing Python in VSCode](https://code.visualstudio.com/docs/introvideos/basics) (AA and YW)
+  - 14:00-14:30 [Basic introduction to Python](https://aaltoscicomp.github.io/python-for-scicomp/python/) (YW and AA) 
+  - 14:30-15:00 [Python scripts](https://aaltoscicomp.github.io/python-for-scicomp/scripts/) (YW and AA)
 
 
 **Day 2 - Python intermediate**
 
 - 10:00-10:10 Recap of what we learned yesterday
 - 10:10-12:00 Python intermediate
-    - 10:10-11:00 [Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy/)
-    - 11:00-12:00 [Pandas](https://aaltoscicomp.github.io/python-for-scicomp/pandas/)
+    - 10:10-11:00 [Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy/) (MS and YW)
+    - 11:00-12:00 [Pandas](https://aaltoscicomp.github.io/python-for-scicomp/pandas/) (MS and YW)
 - 13:00-15:00 Python intermediate
-    - 13:00-13:50 [Visualisation with Matplotlib](https://aaltoscicomp.github.io/python-for-scicomp/data-visualization/)
-    - 13:50-14:20 [Data formats with Numpy and Pandas](https://aaltoscicomp.github.io/python-for-scicomp/data-formats/)
-    - 14:20-14:50 [Web APIs with Python](https://aaltoscicomp.github.io/python-for-scicomp/web-apis/)
+    - 13:00-13:50 [Visualisation with Matplotlib](https://aaltoscicomp.github.io/python-for-scicomp/data-visualization/) (YW and MS)
+    - 13:50-14:20 [Data formats with Numpy and Pandas](https://aaltoscicomp.github.io/python-for-scicomp/data-formats/) (YW and MS)
+    - 14:20-14:50 [Web APIs with Python](https://aaltoscicomp.github.io/python-for-scicomp/web-apis/) (AA and TW)
     - 14:50-15:00 Where to go from here: [advanced Numpy](https://aaltoscicomp.github.io/python-for-scicomp/numpy-advanced/)
 
     
@@ -85,66 +85,66 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 
 - 10:00-10:15 Recap of what we learned yesterday
 - 10:15-12:00 Python intermediate
-    - 10:15-10:30 [Scipy](https://aaltoscicomp.github.io/python-for-scicomp/scipy/)
-    - 10:30-11:00 [Library ecosystem](https://aaltoscicomp.github.io/python-for-scicomp/libraries/)
+    - 10:15-10:30 [Scipy](https://aaltoscicomp.github.io/python-for-scicomp/scipy/) (MS and)
+    - 10:30-11:00 [Library ecosystem](https://aaltoscicomp.github.io/python-for-scicomp/libraries/) (MS and)
 - 13:00-15:00 Python intermediate
-    - 13:00-13:30 [Parallel programming](https://aaltoscicomp.github.io/python-for-scicomp/parallel/)
-    - 13:30-14:00 [Dependency management](https://aaltoscicomp.github.io/python-for-scicomp/dependencies/)
-    - 14:00-14:50 [Packaging](https://aaltoscicomp.github.io/python-for-scicomp/packaging/)
-    - 14:50-15:00 Where to go from here: [Accelerating Python code, porting to GPUs](https://enccs.github.io/hpda-python/).
+    - 13:00-13:30 [Parallel programming](https://aaltoscicomp.github.io/python-for-scicomp/parallel/) (TW and YW)
+    - 13:30-14:00 [Dependency management](https://aaltoscicomp.github.io/python-for-scicomp/dependencies/) (AA and TW)
+    - 14:00-14:50 [Packaging](https://aaltoscicomp.github.io/python-for-scicomp/packaging/) (AA and TW)
+    - 14:50-15:00 Where to go from here: [Accelerating Python, porting to GPUs](https://enccs.github.io/hpda-python/).
 
 **Day 4 - Python intermediate, more Unix, and HPC**
 
 - 10:00-11:00 Buffer time, Q&A session and discussions.
 - 11:00-12:00 Unix intermediate:
-   - 11:00-11:35 [Pipes and filters](https://swcarpentry.github.io/shell-novice/instructor/04-pipefilter.html)
-   - 11:35-12:00 [Loops](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html)
+   - 11:00-11:35 [Pipes and filters](https://swcarpentry.github.io/shell-novice/instructor/04-pipefilter.html) (AA and TW)
+   - 11:35-12:00 [Loops](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html) (AA and TW)
 - 13:00-15:00 Intermediate Unix
-    - 13:00-13:25 [Loops contd.](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html)
-    - 13:25-14:10 [Shell scripts](https://swcarpentry.github.io/shell-novice/instructor/06-script.html)
-    - 14:10-14:50 [Finding things](https://swcarpentry.github.io/shell-novice/instructor/07-find.html)
+    - 13:00-13:25 [Loops contd.](https://swcarpentry.github.io/shell-novice/instructor/05-loop.html) (AA and TW)
+    - 13:25-14:10 [Shell scripts](https://swcarpentry.github.io/shell-novice/instructor/06-script.html) (YW and AA)
+    - 14:10-14:50 [Finding things](https://swcarpentry.github.io/shell-novice/instructor/07-find.html) (YW and AA)
     - 14:50-15:00 Where to go from here: [awk](https://pmitev.github.io/to-awk-or-not/) etc.
 
 
-Day 5 - HPC and Cloud
+**Day 5 - HPC and Cloud**
 
 - 10:00-12:00 High performance computing
-   - 10:00-10:20 [Why use a cluster?](https://carpentries-incubator.github.io/hpc-intro/10-hpc-intro/index.html)
+   - 10:00-10:20 [Why use a cluster?](https://carpentries-incubator.github.io/hpc-intro/10-hpc-intro/index.html) ()
    - 10:20-10:55 [Connecting to a remote HPC system](https://carpentries-incubator.github.io/hpc-intro/11-connecting/index.html)
    - 10:55-11:20 [Exploring Remote Resources](https://carpentries-incubator.github.io/hpc-intro/12-cluster/index.html)
-   - 11:20-12:00 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/)
+   - 11:20-11:50 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/)
+   - 11:50-12:00 LUMI demo
 - 13:00-15:00 HPC and Cloud
-   - 13:00-13:20 [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html)
-   - 13:20-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html)
+   - 13:00-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html)
    - 13:50-14:50 ICE data center
-   - 14:50-15:00 Where to go from here: [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
+   - 14:50-15:00 Where to go from here: [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html), [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
 
 
 Day 6 - Introduction to Git 
 
-- 4h git-intro
+- 4h git-intro (AA and TW and MS) (TW unavailable before noon)
 
 
 Day 7 - Introductory and intermediate Git 
 
-- 2h git-intro
-- 2h social coding
+- 2h git-intro (YW and ) (TW unavailable before noon)
+- 2h social coding (MS and YW)
 
 Day 8 - Intermediate Git 
 
-- 4h git-intermediate
+- 4h git-intermediate (TW and )
 
 
 Day 9 - Reproducibility and documentation
 
-- 2h Reproducible research
-- 2h Documentation
+- 2h Reproducible research (AA and TW)
+- 2h Documentation (TW and AA)
 
 
 Day 10 - Testing and modularity
 
-- 2h Testing
-- 2h Modular code development
+- 2h Testing (TW and MS)
+- 2h Modular code development (TW and MS)
 
 
 
