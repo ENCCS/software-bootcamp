@@ -149,7 +149,7 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
 - 10:00-12:00 Git intermediate
    - 10:00-10:30 [Distributed version control and forking workflow II](https://coderefinery.github.io/git-collaborative/distributed/) (TW and YW)
    - 10:30-11:00 [How to contribute changes to somebody else’s project](https://coderefinery.github.io/git-collaborative/contributing/) (TW and YW)
-   - 11:00-12:00 Buffer time, Q&A session and discussions.
+   - 11:00-12:00 Buffer time, Q&A session, discussions and where to go from here: [Git cheatsheet](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf).
 - 13:00-15:00 Jupyter and Reproducibility
     - 13:00-13:20 [Notebooks and version control](https://coderefinery.github.io/jupyter/version-control/) (AA and TW)
     - 13:20-13:50 [Sharing notebooks](https://coderefinery.github.io/jupyter/sharing/) (AA and TW)
