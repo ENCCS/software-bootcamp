@@ -157,12 +157,9 @@ After attending the bootcamp and completing all hands-on exercises, you will be 
    - 10:20-10:55 [Connecting to a remote HPC system - using LUMI](https://carpentries-incubator.github.io/hpc-intro/11-connecting/index.html) (YW and TW)
    - 10:55-11:20 [Exploring Remote Resources](https://carpentries-incubator.github.io/hpc-intro/12-cluster/index.html) (YW and AA)
    - 11:20-11:50 [Scheduler fundamentals](https://carpentries-incubator.github.io/hpc-intro/13-scheduler/index.html) - [Interactive SLURM playground](http://slurmlearning.deic.dk/) (TW and AA)
-   - 11:50-12:00 Getting HPC access via ENCCS (TW)
-- 13:00-15:00 HPC and Cloud
-   - 13:00-13:50 [Transferring files with remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html) (YW and TW)
-   - 13:50-14:50 ICE data center (Isabelle?)
-   - 14:50-15:00 Where to go from here: [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html), [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), 
-
+   - 11:50-12:00 Where to go from here: Getting EuroHPC access via ENCCS, [Module systems](https://carpentries-incubator.github.io/hpc-intro/14-modules/index.html), [Running parallel jobs](https://carpentries-incubator.github.io/hpc-intro/16-parallel/index.html), [Transferring files to remote computers](https://carpentries-incubator.github.io/hpc-intro/15-transferring-files/index.html) (TW)
+- 13:00-15:00 Cloud
+   - 13:00-15:00 ICE data center (Johan Kristiansson)
 
 **Day 6 - Introduction to Git**
 
