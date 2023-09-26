@@ -16,8 +16,8 @@ Our bootcamp offers a welcoming and useful environment for learning many necessa
 
 ## Prerequisites
 
-- You should be prepared to install software on your own laptop and bring it to the bootcamp
-- Some previous experience with programming is advantageous but not mandatory - the first day is devoted to introductory topics 
+- You should be prepared to install software on your own laptop and bring it to the bootcamp - see below.
+- Some previous experience with programming is advantageous but not mandatory - the first day is devoted to introductory topics.
 
 ## Before the bootcamp
 
@@ -26,7 +26,51 @@ Before attending the bootcamp, please follow carefully the installation instruct
 <details>
   <summary>Installation instructions</summary>
  
-WRITEME
+You will need the following tools installed on the computer you will use during the bootcamp. Please go through this list carefully and make 
+sure to install everything that you don't already have installed. The links take you to external installation instructions for different operating systems.
+- Shell and Git - [instructions](https://coderefinery.github.io/installation/shell-and-git/)
+- A GitHub account - [instructions](https://coderefinery.github.io/installation/github/)
+- SSH connection to GitHub - [instructions](https://coderefinery.github.io/installation/ssh/)
+- A text editor - [instructions](https://coderefinery.github.io/installation/editors/)
+- Python via one of two ways:
+   - through the Anaconda distribution - [instructions](https://carpentries.github.io/workshop-template/install_instructions/#python-1)
+   - or if you already have a preferred Python installation on your computer, make sure to install the required packages listed in the following yml file
+     ```yaml
+        name: bootcamp
+        channels:
+          - conda-forge
+          - defaults
+          - bioconda
+        dependencies:
+          - python>3.9
+          - click
+          - ipywidgets
+          - jupyterlab
+          - jupyterlab-git
+          - matplotlib
+          - myst-parser
+          - nbdime
+          - numpy
+          - pandas
+          - pytest
+          - pytest-cov
+          - seaborn
+          - snakemake-minimal
+          - sphinx
+          - sphinx-autobuild
+          - sphinx_rtd_theme
+          - jsonlines
+          - notebook
+          - requests
+          - seaborn
+          - mpi4py
+          - dask
+          - setuptools
+          - twine
+          - poetry
+          - flit
+     ```
+
 </details>
 
 ## Learning objectives
