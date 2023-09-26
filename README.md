@@ -34,7 +34,7 @@ sure to install everything that you don't already have installed. The links take
 - A text editor - [instructions](https://coderefinery.github.io/installation/editors/)
 - Python via one of two ways:
    - through the Anaconda distribution - [instructions](https://carpentries.github.io/workshop-template/install_instructions/#python-1)
-   - or if you already have a preferred Python installation on your computer, make sure to install the required packages listed in the following yml file
+   - or if you already have a Python installation and the `conda` package manager on your computer, make sure to install the required packages listed in the following yaml file by saving it to a file `env.yml` and then run `conda env create -f env.yml`:
      ```yaml
         name: bootcamp
         channels:
