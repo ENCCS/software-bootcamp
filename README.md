@@ -32,6 +32,7 @@ sure to install everything that you don't already have installed. The links take
 - A GitHub account - [instructions](https://coderefinery.github.io/installation/github/)
 - SSH connection to GitHub - [instructions](https://coderefinery.github.io/installation/ssh/)
 - A text editor - [instructions](https://coderefinery.github.io/installation/editors/)
+   - **Sublime Text** is also a good text-based code editor to use for Win, Linux, and Mac OS - [instruction](https://www.sublimetext.com/download)
 - Python via one of two ways:
    - through the Anaconda distribution - [instructions](https://carpentries.github.io/workshop-template/install_instructions/#python-1)
    - or if you already have a Python installation and the `conda` package manager on your computer, make sure to install the required packages listed in the following yaml file by saving it to a file `env.yml` and then run `conda env create -f env.yml`:
@@ -54,7 +55,6 @@ sure to install everything that you don't already have installed. The links take
           - pandas
           - pytest
           - pytest-cov
-          - seaborn
           - snakemake-minimal
           - sphinx
           - sphinx-autobuild
