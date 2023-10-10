@@ -63,8 +63,6 @@ sure to install everything that you don't already have installed. The links take
           - notebook
           - requests
           - seaborn
-          - mpi4py
-          - dask
           - setuptools
           - twine
           - poetry
