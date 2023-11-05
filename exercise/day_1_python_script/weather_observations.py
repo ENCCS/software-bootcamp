@@ -1,15 +1,12 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
+#!/usr/bin/env python3
+# -*- coding:utf-8 -*-
 
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/AaltoSciComp/python-for-scicomp/master/resources/data/scripts/weather_tapiola.csv"
 weather = pd.read_csv(url,comment='#')
 
-# define the start and end time for the plot 
+# define the start and end time for the plot
 start_date=pd.to_datetime('01/06/2021',dayfirst=True)
 end_date=pd.to_datetime('01/10/2021',dayfirst=True)
 
@@ -19,11 +16,7 @@ weather['Local time'] = pd.to_datetime(weather['Local time'],dayfirst=True)
 # select the data
 weather = weather[weather['Local time'].between(start_date,end_date)]
 
-
 # Now, we have the data loaded, and adapted to our needs. So lets get plotting
-
-# In[4]:
-
 
 import matplotlib.pyplot as plt
 # start the figure.
@@ -37,10 +30,3 @@ ax.set_title("Temperature Observations")
 fig.autofmt_xdate()
 # save the figure
 fig.savefig('weather.png')
-
-
-# In[ ]:
-
-
-
-
