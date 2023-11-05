@@ -1,6 +1,6 @@
 /*
-		gcc -O3 -o sum array_addition.cpp
-		nvcc -Xcompiler -std=c99 -arch=sm_60 array_addition.cpp -o sum
+    gcc -O3 -o sum array_addition.cpp
+    nvcc -Xcompiler -std=c99 -arch=sm_60 array_addition.cpp -o sum
  */
 
 #include <math.h>
@@ -17,7 +17,7 @@ void array_check(const double *vecC, const int NX);
 
 int main(int argc, const char * argv[])
 {
-	printf("\n--Beginning of the main function.\n");
+    printf("\n--Beginning of the main function.\n");
 
     const int NX = 1000000;
 		int size_array = sizeof(double) * NX;
@@ -38,7 +38,7 @@ int main(int argc, const char * argv[])
     free(vecB);
     free(vecC);
 
-		printf("\n--Ending of the main function.\n\n");
+    printf("\n--Ending of the main function.\n\n");
 
     return 0;
 }
@@ -57,10 +57,10 @@ void array_check(const double *vecC, const int NX)
     for (int i = 0; i < NX; i++)
     {
         if (fabs(vecC[i] - c) > EPSILON)
-				{
+        {
             has_error = true;
-						break;
-				}
+            break;
+        }
     }
     printf("\n\tChecking array addition results >>> %s\n", has_error? "|| ERROR ||":"|| NO ERROR ||");
 }
